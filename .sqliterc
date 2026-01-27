@@ -1,0 +1,14 @@
+
+## Visual
+
+.mode box
+.header on
+
+.print '#########################################'
+.print '* Athletic and fitness Database*'
+.print '#########################################'
+.print '* Usage: Logs, volume, discipline*'
+.print '#########################################'
+
+
+PAGMA foreign_keys = ON;
